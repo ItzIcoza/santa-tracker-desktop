@@ -36,7 +36,6 @@ Unofficial Desktop client for Googles Santa Tracker
 
 ### Prerequisites
 - **Windows 10** or above
-> For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
 
 ### Installation 
 Visit this website to download the desktop client.
