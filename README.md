@@ -68,6 +68,6 @@ Open the app and select the menu icon in the top left corner.
 <p align="center">
 <i>Made with ❤️ by Zero</i>
    <br/><br/>
-   <img src="https://play-lh.googleusercontent.com/hG8czln9SPL68rQeMj5q8LYoQJx-OLITaunMSot4R2d0QugmPyT8a2gUQ4rMF3awnHJm"  width="64" height="64>
+   <img src="https://play-lh.googleusercontent.com/hG8czln9SPL68rQeMj5q8LYoQJx-OLITaunMSot4R2d0QugmPyT8a2gUQ4rMF3awnHJm"  width="32" height="64">
 </p>
 <!-- END Footer.mustache -->
