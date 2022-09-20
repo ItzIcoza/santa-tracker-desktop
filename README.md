@@ -25,7 +25,7 @@
 
 ## About
 
-![ReadME-Test](https://raw.githubusercontent.com/Jax-Core/ReadME-Template/main/Resources/Splash/ReadME-Test.png)
+![ReadME-Test](https://santatracker.google.com/images/og/village.png)
 <!-- END About.mustache -->
 Unofficial Desktop client for Googles Santa Tracker
 
@@ -39,7 +39,7 @@ Unofficial Desktop client for Googles Santa Tracker
 > For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
 
 ### Installation 
-Run the following command in Powershell to download the latest version of JaxCore.
+Run the following command in Powershell to download the latest version of the desktop client.
 
 (To launch Powershell as an Admin: `Win + R` -> `powershell` -> Press `CTRL + SHIFT + ENTER` on your keyboard. Powershell can also be launched via Windows Search.)
 
